@@ -20,4 +20,16 @@ main {
 .small-btn {
   width: 100px;
   height: 40px;
+  background-color: orange;
+}
+
+#reset-btn {
+  background-color: orange;
+}
+#reset-btn:disabled {
+  background-color: red;
+}
+
+.small-btn:disabled {
+  background-color: red;
 }
