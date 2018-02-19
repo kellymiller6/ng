@@ -1,0 +1,23 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+header {
+  text-align: center;
+}
+
+main {
+  text-align: center;
+}
+
+#user-input {
+  height: 30px;
+  margin: 10px 10px;
+  width: 350px;
+}
+
+.small-btn {
+  width: 100px;
+  height: 40px;
+}
